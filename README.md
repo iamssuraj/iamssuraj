@@ -12,7 +12,7 @@
 ### I love
 * Dealing with Front End Technologies
 * Machine Learning
-* Competitive Programming, I am an active participant in Codechef, Codeforces. My handle is `iamssuraj` in all these sites.
+* Competitive Programming
 * Concepts of Deep Learning like Convolutional Neural Networks, Artificial Neural Networks etc..
 
 
