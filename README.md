@@ -19,7 +19,7 @@
 ### Connect with me
 
 - [Linkedin](https://www.linkedin.com/in/iamssuraj/)
-- [GitHub](https://github.com/iamssuraj).
+- [GitHub](https://github.com/iamssuraj)
 - [My Portfolio](https://iamssuraj.netlify.app/)
 
 ### Links to My Profiles on various Coding Platforms
