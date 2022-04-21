@@ -20,7 +20,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/iamssuraj/)
 - [GitHub](https://github.com/iamssuraj)
-- [My Portfolio](https://iamssuraj.netlify.app/)
+- [Portfolio](https://iamssuraj.netlify.app/)
 
 ### Links to My Profiles on various Coding Platforms
 - [HackerRank](https://www.hackerrank.com/iamssuraj?hr_r=1)
