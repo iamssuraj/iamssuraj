@@ -10,7 +10,7 @@
 * Octave
 
 ### I love
-* Dealing with Front End Technologies
+* Front End Technologies
 * Machine Learning
 * Competitive Programming
 * Concepts of Deep Learning like Convolutional Neural Networks, Artificial Neural Networks etc..
