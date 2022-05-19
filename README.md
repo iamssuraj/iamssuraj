@@ -5,6 +5,7 @@
 
 ### Some languages I'm familiar with
 * C/C++
+* Java
 * Python
 * HTML, CSS and JavaScript
 * Octave
