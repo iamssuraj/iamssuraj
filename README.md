@@ -1,7 +1,6 @@
 ### Hi there 👋
 * I am Suraj Sanganbhatla, a programming enthusiast.
 * I'm a sophomore specializing in Computer Science and Business Systems.
-* I'm also a Web UI Designer.
 
 ### Some languages I'm familiar with
 * C/C++
