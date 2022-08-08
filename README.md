@@ -1,6 +1,6 @@
 ### Hi there 👋
 * I am Suraj Sanganbhatla, a programming enthusiast.
-* I'm a sophomore specializing in Computer Science and Business Systems.
+* I'm from a branch called Computer Science and Business Systems.
 
 ### Some languages I'm familiar with
 * C/C++
