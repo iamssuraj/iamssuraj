@@ -12,7 +12,7 @@
 
 * Competitive Programming
 * Machine Learning
-* Concepts of Deep Learning like Convolutional Neural Networks, Artificial Neural Networks etc..
+* Deep Learning, Convolutional Neural Networks, Artificial Neural Networks, etc..
 
 
 ### Connect with me
@@ -23,6 +23,7 @@
 
 ### Links to My Profiles on various Coding Platforms
 - [HackerRank](https://www.hackerrank.com/iamssuraj?hr_r=1)
+- [LeetCode](https://leetcode.com/iamssuraj/)
 - [CodeChef](https://www.codechef.com/users/iamssuraj)
 - [Codeforces](https://codeforces.com/profile/iamssuraj)
-- [LeetCode](https://leetcode.com/iamssuraj/)
+
