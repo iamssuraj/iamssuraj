@@ -5,7 +5,7 @@
 * C/C++
 * Java
 * Python
-* HTML, CSS and JavaScript
+* HTML, CSS, JavaScript & ReactJS
 * Octave
 
 ### I love
