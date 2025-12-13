@@ -1,1 +1,1 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi, I'm Suraj Sanganbhatla, a Software Engineer. Check out my [Portfolio](https://iamssuraj.netlify.app/) Connect with me on [Linkedin](https://www.linkedin.com/in/iamssuraj/).
+Hey, I'm Suraj. More about me at [Linkedin](https://www.linkedin.com/in/iamssuraj/).
